@@ -35,3 +35,17 @@ Add a new passenger.
 Search by entering Passenger ID.
 
 Display all sorted passengers.
+
+# Sample Output (Text Description)
+
+- User opens GUI window.
+- Enters:
+  - Passenger ID: 101
+  - Name: John Doe
+  - Flight No: 123
+  - Source: Delhi
+  - Destination: Mumbai
+- Clicks **"Add Passenger"** → Message: “Passenger added successfully.”
+
+- Clicks **"Display Passengers"**:
+
